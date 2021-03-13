@@ -2,7 +2,7 @@
 
 # Workout-Tracker
 
-[Application]()
+[Application](https://protected-hamlet-63014.herokuapp.com/)
 
 ## Table of Contents
   * [Description](#description)
@@ -16,13 +16,13 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-
+A progressive web app that demonstrates offline transaction capability.
 
 ## Installation
 Fork and clone the repository, then npm install all dependencies. Make sure your connection to MongoDB is working.
 
 ## Usage
-
+This app helps users who travel or have spotty reception be able to track transactions while on the go.
 
 ## License
 This project and all of its source code are subject to the MIT license.
@@ -42,4 +42,4 @@ GitHub: [sossw1](http://github.com/sossw1)
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](./public/img/app-screenshot.png)

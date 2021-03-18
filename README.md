@@ -1,7 +1,5 @@
 # Budget-Tracker
 
-# Workout-Tracker
-
 [Application](https://protected-hamlet-63014.herokuapp.com/)
 
 ## Table of Contents
